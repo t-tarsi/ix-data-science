@@ -1,4 +1,4 @@
-# learning-materials
+# learning-materials 
 Course material for iXperience Data Science 2018. Explanatory notes and code for work in deep learning, machine learning and data science.
 
 ## Course Structure
